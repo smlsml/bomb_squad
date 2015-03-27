@@ -1,0 +1,121 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang1033\deflangfe1033{\fonttbl {\f0\fmodern\fprq1\fcharset0 Courier New;}}
+\uc1\pard\ri-450\nowidctlpar\ulnone\f0\fs20 <=========================================================================>\par
+\pard\nowidctlpar                           BOMB SQUAD HELP FILE\par
+\pard\ri-450\nowidctlpar <=========================================================================\lang1024 >\lang1033\par
+\par
+\fs24\\-----------------\\\par
+|Starting The Game|========================================>\par
+/-----------------/\fs20\par
+\par
+-There are three ways to start the game.\par
+ : Choosing 'New' from the 'File' Menu\par
+ : Clicking the 'Go' button\par
+ : Pressing the space bar or enter\par
+\par
+-There are also three ways to bypass the losing animation\par
+ : Left click the window\par
+ : Clicking the 'Go' button\par
+ : Pressing the space bar or enter\par
+\par
+\fs24\\----------------\\\par
+|Playing The Game|=========================================>\par
+/----------------/\fs20\par
+\par
+\ul\fs24 *BASIC IDEA*\ulnone\fs20\par
+ Mark\\Disable all the bombs on the board before time runs out to move\par
+ on to the next level.\par
+ \par
+\ul\fs24 *REVEAL SQUARES*\ulnone\fs20\par
+\b -What\b0\par
+ :Reveal the board until an intelligent decision can be made on where\par
+  the bombs are possibly located.  \par
+\par
+\b -HowTo:\b0\par
+:Left click to reveal squares.\par
+:They will only reveal on release of button, to allow user to hop \par
+ to different squares while still holding.\par
+\par
+\b -Outcome\b0\par
+:Upon revealing a square there will either be a number, nothing, or a bomb.\par
+ >Nothing : No bomb, will open board till a bomb is detected\par
+ >Number  : The number of bombs are present in the adjacent squares\par
+ >Bomb    : Sorry pal your dead. Try again\par
+\par
+:Depending on the numbers you will see, make decisions on where bombs could \par
+ be and mark those squares.  \par
+\par
+\ul\fs24 *MARK SQUARES*\ulnone\fs20\par
+\b -What\b0\par
+:Marking where you think a bomb is placed.\par
+\par
+\b -HowTo\b0\par
+:Right click to mark a bomb.\par
+:Right click a marked square to unmark it.\par
+ \par
+\b -Outcome\b0\par
+:If all bombs are marked, you will advance to the next level automatically.\par
+:If all marks are used but you don't advance then at least one of your \par
+ marks is wrong.\par
+\par
+\ul\fs24 *AUTO-OPEN* \ulnone\fs20\par
+\b -What\b0\par
+:If the surrounding squares contain as many marks as the numbered square \par
+ predicts then the area is eligible for auto opening\par
+\par
+\b -HowTo\b0\par
+:Left click and hold on a square which has a number inside.\par
+ Then hold the right button.\par
+\par
+\b -Outcome\b0\par
+:This will cause all adjacent squares to turn either: \par
+ >Blue: Squares are marked or uneligible for auto opening\par
+ >Red : Square is eligible for auto opening\par
+ >None: Already open\par
+\par
+\fs24\\-----------\\\par
+|The Options|===============================================>\par
+/-----------/\fs20\par
+\par
+\b -Pause/Unpause\b0\par
+ Pauses or Unpauses the game.\par
+ Pressing p or the pause button will also work.\par
+\par
+\b -Backgrounds\b0\par
+ When checked a random picture will appear under the board,\par
+ if not checked a gray color will appear under revealed squares.\par
+\par
+\b -Difficulty\b0\par
+\par
+ Easy:    1 Bomb for every 9 squares\par
+          Time = (5 * # of bombs)\par
+\par
+ Medium:  1 Bomb for every 8 squares\par
+          Time = (4 * # of bombs)\par
+\par
+ Hard:    1 Bomb for every 7 squares\par
+          Time = (2 * # of bombs)\par
+\par
+ Insane:  1 Bomb for every 6 squares\par
+          Time = (1 * # of bombs)\par
+\par
+\par
+\fs24\\-------\\\par
+|Contact|===================================================>\par
+/-------/\fs20\par
+\par
+\b -Email\b0\par
+ Contact me about comments, ideas, suggestions, bg requests etc etc at:\par
+ \ul FooKilla@Hotmail.Com\ulnone\par
+\par
+\b -ICQ\b0\par
+ If you happen to have icq, (Who doesn't?) then you can find me at uin:\par
+ \ul 235722\ulnone\par
+\par
+\b -Thanks\b0\par
+ Me, Myself, and I.  Oh yea and Mark H.\par
+\par
+\par
+<=========================================================================>\par
+                Thank You For Playing Bomb Squad! (c)1999\par
+\pard\ri-450 <=========================================================================>\par
+}

@@ -1,0 +1,16 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+HCW=0
+COMPRESS=12 Hall Zeck
+ERRORLOG=.\test.log
+REVISIONS=No
+LCID=0x409 0x6 0x0 ;English (United States)
+REPORT=Yes
+TITLE=Bomb Squad Help File
+COPYRIGHT=1.0
+DEFFONT=Courier New,8,0
+HLP=.\SweeperH.hlp
+
+[FILES]
+.\test2.rtf

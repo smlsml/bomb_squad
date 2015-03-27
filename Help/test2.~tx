@@ -1,0 +1,117 @@
+{\rtf1
+
+\\----------------\\\par
+*Starting The Game>\par
+/----------------/\par
+\par
+-There are three ways to start the game.\par
+ : Choosing 'New' from the 'File' Menu\par
+ : Clicking the 'Go' button\par
+ : Pressing the space bar\par
+\par
+-There are also three ways to bypass the losing animation\par
+ : Left click the window\par
+ : Clicking the 'Go' button\par
+ : Pressing the space bar\par
+\par
+\\---------------\\\par
+*Playing The Game>\par
+/---------------/\par
+\par
+*BASIC IDEA*\par
+ Mark\\Disable all the bombs on the board before time runs out to move\par
+ on to the next level.\par
+ \par
+*REVEAL SQUARES*\par
+-What\par
+ :Reveal the board until an intelligent decision can be made on where the\par
+  bombs are possibly located.  \par
+\par
+-HowTo:\par
+:Left click to reveal squares.\par
+:They will only reveal on release of button, to allow user to hop to different \par
+ squares while still holding.\par
+\par
+-Outcome\par
+:Upon revealing a square there will either be a number, nothing, or a bomb.\par
+ >Nothing : No bomb, will open board till a bomb is detected\par
+ >Number  : The number of bombs are present in the adjacent squares\par
+ >Bomb    : Sorry pal your dead. Try again\par
+\par
+:Depending on the numbers you will see, make decisions on where bombs could \par
+ be and mark those squares.  \par
+\par
+*MARK SQUARES*\par
+-What\par
+:Marking where you think a bomb is placed.\par
+\par
+-HowTo\par
+:Right click to mark a bomb.\par
+:Right click a marked square to unmark it.\par
+ \par
+-Outcome\par
+:If all bombs are marked, you will advance to the next level automatically.\par
+:If all marks are used but you don't advance then at least one of your \par
+ marks is wrong.\par
+\par
+*AUTO-OPEN* \par
+-What\par
+:If the surrounding squares contain as many marks as the numbered square \par
+ predicts then the area is eligible for auto opening\par
+\par
+-HowTo\par
+:Left click and hold on a square which has a number inside.\par
+ Then hold the right button.\par
+\par
+-Outcome\par
+:This will cause all adjacent squares to turn either: \par
+ >Blue: Squares are marked or uneligible for auto opening\par
+ >Red : Square is eligible for auto opening\par
+ >None: Already open\par
+\par
+\\-----------\\\par
+|The Options|>\par
+/-----------/\par
+\par
+-Pause/Unpause\par
+ Pauses or Unpauses the game.\par
+\par
+-Backgrounds\par
+ When checked a random picture will appear under the board,\par
+ if not checked a gray color will appear under revealed squares.\par
+\par
+-Difficulty\par
+\par
+ Easy:    1 Bomb for every 9 squares\par
+          Time = (5 * # of bombs)\par
+\par
+ Medium:  1 Bomb for every 8 squares\par
+          Time = (4 * # of bombs)\par
+\par
+ Hard:    1 Bomb for every 7 squares\par
+          Time = (2 * # of bombs)\par
+\par
+ Insane:  1 Bomb for every 6 squares\par
+          Time = (1 * # of bombs)\par
+\par
+\par
+\\------\\\par
+*Contact>\par
+/------/\par
+\par
+-Email\par
+ Contact me about comments, ideas, suggestions, bg requests etc etc at:\par
+ FooKilla@Hotmail.Com\par
+\par
+-ICQ\par
+ If you happen to have icq, (Who doesn't?) then you can find me at uin:\par
+ 235722\par
+\par
+-Thanks to Me, Myself, and I.\par
+\par
+\par
+<=========================================================================>\par
+                Thank You For Playing Bomb Squad! (c)1999\par
+<=========================================================================>\par
+\par
+}

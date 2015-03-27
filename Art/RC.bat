@@ -1,0 +1,1 @@
+c:\borland\bin\brc32 extra.rc
